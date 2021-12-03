@@ -1,0 +1,52 @@
+body {
+    background-color: wheat;
+}
+
+img {
+    height: 700px;
+    width: 700px;
+    /* center an image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2 {
+    font-family: cursive;
+    color: #ff5050;
+    background-color: #66ff66;
+    opacity: 0.6;
+}
+
+h1, h3 {
+    text-align: center;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: red;
+}
+
+h2 {
+    text-align: start;
+}
+
+#description, .cooking-steps {
+    font-family: cursive;
+    font-size: 26px;
+}
+
+#description {
+    text-align: center;
+
+}
+
+.ingredient-list {
+    font-family: sans-serif;
+    font-family: serif;
+}
+
+#home {
+    text-align: center;
+    background-color: white;
+}

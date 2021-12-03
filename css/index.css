@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    background-color: green;
+    text-align: center;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.recipe-name {
+    font-family: cursive;
+    text-align: left;
+    font-weight: 500;
+    font-size: 24px;
+}

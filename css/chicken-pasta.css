@@ -1,0 +1,54 @@
+h1, h2 {
+    font-family: cursive;
+    color: wheat;
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+#description, p {
+    text-align: center;
+}
+
+h3 {
+    font-family: "Time New Roman";
+    color: red;
+    text-align: center;
+}
+
+body {
+    background-color: wheat;
+}
+
+img {
+    height: 700px;
+    width: 700px;
+    /* center an image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ingredient-list {
+    font-weight: lighter;
+    text-align: start;
+    font-family: sans-serif;
+}
+.step-one, .step-two, .step-three {
+    text-align: start;
+    font-family: cursive;
+    font-size: 24px;
+}
+
+.home {
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+}
